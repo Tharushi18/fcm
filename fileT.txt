@@ -1,9 +1,8 @@
 This is my 1st commit
 
-<<<<<<< HEAD
 This is my commit in master branch
-=======
+
 This is my 2nd commit
 
 This is my 3rd commit on feature1 branch
->>>>>>> feature1
+
